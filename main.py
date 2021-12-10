@@ -7,4 +7,4 @@ print("Il numero complesso è:", type(z), z)
 
 stringa1="Ma il cielo è sempre più blu!"
 print("Slicing della frase:", stringa1[4:8])
-print("Guarda che il meteo dà brutto...", stringa1)
+print("Guarda che il meteo fa schifo...", stringa1)
